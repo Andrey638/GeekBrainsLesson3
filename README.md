@@ -1,7 +1,7 @@
 # GeekBrainsLesson3
 
-> git clone - clone repository
+> **git clone** - clone repository
 
-> git - log - журнал изменений
+> **git - log** - журнал изменений
 
-> git - diff - разница между текущим и сохранённым файлом
+> **git - diff** - разница между текущим и сохранённым файлом
