@@ -1,6 +1,6 @@
 # GeekBrainsLesson3
 
-> **git clone** - clone repository
+> **git clone** - _clone repository_
 
 > **git - log** - журнал изменений
 
